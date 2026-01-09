@@ -1,7 +1,3 @@
-Here is a professional README.md file tailored to catch a recruiter's eye. It emphasizes architecture, modern tech stack choices (Groq/Llama3), and clean documentation.
-
-You can copy-paste the code below directly into your GitHub repository.
-
 📄 RAG Document Q&A with Groq & Llama3
 🚀 Project Overview
 This is a Retrieval-Augmented Generation (RAG) application built with Streamlit that allows users to chat with their PDF documents.
